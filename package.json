@@ -30,7 +30,8 @@
                     "jasmin"
                 ],
                 "extensions": [
-                    ".jazz"
+                    ".jazz",
+                    ".jinc"
                 ],
                 "configuration": "./language-configuration.json"
             }
