@@ -25,7 +25,7 @@
 			"patterns": [
 				{
 					"name": "keyword.control",
-					"match": "\\b(require|fn|for|while|return)\\b"
+					"match": "\\b(require|fn|for|while|if|else|return)\\b"
 				}
 			]
 		},
