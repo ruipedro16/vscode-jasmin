@@ -31,7 +31,8 @@
                 ],
                 "extensions": [
                     ".jazz",
-                    ".jinc"
+                    ".jinc",
+                    ".jtmpl"
                 ],
                 "configuration": "./language-configuration.json"
             }
