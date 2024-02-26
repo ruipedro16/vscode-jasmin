@@ -6,6 +6,9 @@
 			"include": "#keywords"
 		},
 		{
+            "include": "#annotations"
+        },
+		{
 			"include": "#strings"
 		},
 		{
@@ -29,6 +32,14 @@
 				}
 			]
 		},
+		"annotations": {
+            "patterns": [
+                {
+                    "name": "keyword.annotation",
+                    "match": "#(?:declassify|bounded)\\b"
+                }
+            ]
+        },
 		"strings": {
 			"name": "string.quoted.double.jasmin",
 			"begin": "\"",
