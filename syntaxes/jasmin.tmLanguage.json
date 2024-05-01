@@ -36,7 +36,7 @@
             "patterns": [
                 {
                     "name": "keyword.annotation",
-                    "match": "#(?:declassify|bounded)\\b"
+                    "match": "#(?:declassify|bounded|msf|spill_to_mmx|mmx|inline)\\b"
                 }
             ]
         },
